@@ -1,0 +1,122 @@
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.cart_nav{
+    width: 1540px;
+height: 265px;
+
+background: rgb(81, 38, 137);
+}
+.cart_text{
+    padding: 64px 496px;
+    font-size: 39px;
+    color: rgb(255, 255, 255);
+
+}
+.cart_text_1{
+    width: 846px;
+    height: 46px;
+    color: rgb(248, 248, 248);
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    bottom: 56px;
+}
+.button{
+    position: relative;
+    left: 1279px;
+    bottom: 254px;
+    box-sizing: border-box;
+    width: 81px;
+    height: 38px;
+/* border: 1px solid rgb(248, 248, 248); */
+border-radius: 8px;
+}
+.button:hover{
+  border: 1px solid rgb(248, 248, 248); 
+    cursor: pointer;
+}
+
+.modal{
+    width: 500px;
+    height: 519px;
+    border-radius: 16px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.08);
+    background: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-left: 500px;
+}
+.close{
+    position: relative;
+    left: 474px;
+    top: 13px;
+    font-size: 25px;
+}
+.text_1{
+    display: grid;
+    width: 454px;
+    height: 28px;
+    margin-left: 22px;
+    border-radius: 8px;
+    background: rgb(248, 248, 248);
+}
+.form{
+    display: grid;
+    grid-gap: 25px;
+}
+
+.text_3{
+    margin-left: 33px;
+    color: rgb(21, 19, 23);
+    font-family: Roboto;
+    font-size: 16px;
+}
+.text{
+    display: grid;
+    width: 454px;
+    height: 28px;
+    margin-left: 22px;
+    border-radius: 8px;
+    background: rgb(248, 248, 248);
+}
+.text_6{
+    display: grid;
+    width: 468px;
+    height: 48px;
+    margin-left: 22px;
+    border-radius: 8px;
+    border-radius: 8px;
+    text-align: center;
+    background: rgb(81, 38, 137);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.reg{
+    margin-left: 15px;
+}
+.all_picture{
+    padding: 40px 75px;
+    padding: 25.63px;
+    
+    
+    background: rgb(245, 245, 245);
+   
+
+}
+.product{
+    margin-left: 535px;
+    width: 150px;
+height: 30px;
+box-sizing: border-box;
+/* Black */
+border: 1px solid rgb(21, 19, 23);
+border-radius: 8px;
+
+}
+

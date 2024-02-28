@@ -1,0 +1,99 @@
+.header{
+    margin-top: 44px;
+    width: 1540px;
+    height: 256px ;
+    box-shadow: 0px 1px 3.98px 0px rgba(51, 51, 51, 0.15);
+
+background: rgb(81, 38, 137);
+}
+.picture_1{
+    position: relative;
+    bottom: 216px;
+    left: 188px;
+}
+.text_1{
+    margin-left: 188px;
+    color: rgb(21, 19, 23);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+width: 630px;
+height: 396px;
+position: relative;
+    bottom: 154px;
+    
+}
+.text_2{
+    bottom: 218px;
+    margin-left: 188px;
+    color: rgb(21, 19, 23);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+width: 630px;
+height: 396px;
+position: relative;
+}
+.but_1{
+    margin-top: 32px;
+    margin-left: 80px;
+    width: 79px;
+    height: 38px;
+    background:rgb(81, 38, 137);
+    color: #fff;
+
+}
+.but_1:hover{
+    
+    color: #fff;
+    background:rgb(81, 38, 137);
+   
+}
+ .img_cart_2{
+   
+    position: relative;
+    bottom: 48px;
+} 
+.phone_2{
+    position: relative;
+    bottom: 58px;
+}
+.img_cart_3{
+    position: relative;
+    right: 25px;
+}
+.cart_picute{
+    margin-left: 947px;
+    position: relative;
+    bottom: 48px;
+}
+.email_2{
+    position: relative;
+    right: 140px;
+    bottom: 12px;
+}
+.cart_text{
+    margin-top: -21px;
+    margin-left: 407px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 64px;
+}
+.cart_text_1{
+    margin-left: 407px;
+    position: relative;
+    bottom: 52px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 32px;
+}
+.btn_3{
+    margin-left: 1279px;
+    margin-left: 1279px;
+    position: relative;
+    bottom: 236px;
+    width: 81px;
+    height: 38px;
+    background:rgb(81, 38, 137);
+    color: #fff;
+}

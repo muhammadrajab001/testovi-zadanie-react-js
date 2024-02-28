@@ -1,0 +1,18 @@
+
+.menu{
+    position: absolute;
+    top: calc(100% + 5px);
+    right: 10px;
+    width: 220px;
+    padding: 25px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 7px;
+    opacity: 0;
+    transform: translateY(-10px);
+    visibility: hidden;
+    transition: 0.3s;
+}
+.image_1{    margin-top: 48px;
+margin-left: 80px;
+}
